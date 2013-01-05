@@ -1,4 +1,0 @@
-vdr-streamdev
-=============
-
-vdr-streamdev
